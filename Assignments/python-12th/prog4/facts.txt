@@ -1,0 +1,8 @@
+Fact : Design of bullet train was inspired by kingfisher bird.
+email address 1: aditi$juneja2000@gmail.com
+email address 2: aditi$j200@gmail.com
+email address 3: aditi$juneja@gmail.com
+email address 4: aditi$2000@gmail.com
+price : $4000
+special character in email id : $
+'$' means dollar
