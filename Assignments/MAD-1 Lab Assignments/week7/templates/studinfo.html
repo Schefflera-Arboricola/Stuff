@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+</head>
+<body>
+    <h1 align="center">Student Details</h1>
+    <div>
+        <table id = "student-detail">
+            <thead>    
+                <tr>
+                    <th>Roll Number</th>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>{{ roll_no }}</td>
+                    <td>{{ first_name }}</td>
+                    <td>{{ last_name }}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    
+    {% if courses|length %}
+        <h1 align="center">Enrollment list</h1>
+        <div>
+            <table id = "student-enrollments">
+                <thead>
+                    <tr>
+                        <th>SNo</th>
+                        <th>Course Code</th>
+                        <th>Course Name</th>
+                        <th>Course Description</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for i in courses %}
+                        <tr>
+                            <td>{{ i[0]["course_id"] }}</td>
+                            <td>{{ i[0]["course_code"] }}</td>
+                            <td>{{ i[0]["course_name"] }}</td>
+                            <td>{{ i[0]["course_description"] }}</td>
+                            <td><a href="/student/{{ s_id }}/withdraw/{{ i[0]['course_id'] }}">Withdraw</a></td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    {% endif %}
+    
+
+    <div>
+        <p align="center"><a href="/">Go Home</a></p>
+    </div>
+
+</body>
+</html>

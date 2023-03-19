@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Update Student</title>
+</head>
+<body>
+    <div>
+        <h1>Update Student</h1>
+    </div>
+    <form action='/student/{{ student_id }}/update' method="POST" id="update-form">
+        <div>
+            <label>Roll Number:</label>
+            <input type="text" name="roll" value="{{ current_roll }}" disabled />
+        </div>
+
+        <div>
+            <label>First Name:</label>
+            <input type="text" name="f_name" value="{{ current_f_name }}" required />
+        </div>
+        
+        <div>
+            <label>Last Name:</label>
+            <input type="text" name="l_name" value="{{ current_l_name }}"/>
+        </div>
+        
+        <div>
+            <label>Select Courses: </label>
+            {% if 1 in courses %}
+                <input type="checkbox" name="courses[]" value="course_1" checked />
+            {% else %}
+                <input type="checkbox" name="courses[]" value="course_1"/>
+            {% endif %}
+            <label>MAD I</label>
+            
+            {% if 2 in courses %}
+                <input type="checkbox" name="courses[]" value="course_2" checked />
+            {% else %}
+                <input type="checkbox" name="courses[]" value="course_2"/>
+            {% endif %}
+            <label>DBMS</label>
+        
+            {% if 3 in courses %}
+                <input type="checkbox" name="courses[]" value="course_3" checked />
+            {% else %}
+                <input type="checkbox" name="courses[]" value="course_3"/>
+            {% endif %}
+            <label>PDSA</label>
+        
+            {% if 4 in courses %}
+                <input type="checkbox" name="courses[]" value="course_4" checked />
+            {% else %}
+                <input type="checkbox" name="courses[]" value="course_4"/>
+            {% endif %}
+            <label>BDM</label>
+        </div>
+
+        <div>
+            <input type="submit" value = "Submit">
+        </div>
+    </form>
+</body>
+</html>
