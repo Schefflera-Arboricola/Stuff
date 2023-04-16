@@ -1,0 +1,173 @@
+openapi: 3.0.0
+info:
+  title: Example Open API Documentation
+  version: 1.0.0
+  description: |
+    Documentation example. You can add various kinds of **documentation** here. It takes both markdown and HTML.
+    <h2>ER Diagram</h2>
+    <h2> Error Codes </h2>  <table>
+      <thead>
+        <th>Resource</th>
+        <th>Error Code</th>
+        <th>Message</th>
+      </thead>
+      <tbody>
+      <tr>
+        <td>Resource</td>
+        <td>Error Code</td>
+        <td>Message</td>
+      </tr>
+      </tbody>
+    </table>
+servers:
+  - url: http://127.0.0.1:5000/
+paths:
+  /api/user/{username}:
+    description: >-
+      End point to read, update and delete a user resource with username.
+    get:
+      description: Operation to get a user details
+      parameters:
+        - in: path
+          name: username
+          required: true
+          schema:
+            type: string
+            example: ali
+      responses:
+        '200':
+          description: Success
+          content:
+            application/json:
+              schema:
+                title: user object
+                type: object
+                properties:
+                  user_id:
+                    type: integer
+                    example: 201
+                  username:
+                    type: string
+                    example: ali
+                  email:
+                    type: string
+                    example: ali@example.com
+        '400':
+          description: Bad request.
+        '404':
+          description: Resource not found.
+        '500':
+          description: Internal Server Error.
+    put:
+      description: Operation to update the user detail
+      parameters:
+        - in: path
+          name: username
+          required: true
+          schema:
+            type: string
+            example: ali
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                email:
+                  type: string
+                  example: ali@example2.org
+      responses:
+        '200':
+          description: Successfuly updated.
+          content:
+            application/json:
+              schema:
+                title: user object
+                type: object
+                properties:
+                  user_id:
+                    type: integer
+                    example: 201
+                  username:
+                    type: string
+                    example: ali
+                  email:
+                    type: string
+                    example: ali@example2.com
+        '400':
+          description: Bad request.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error_code:
+                    type: string
+                  error_message:
+                    type: string
+        '404':
+          description: Resource you requested to update not found
+        '500':
+          description: Internal Server Error
+    delete:
+      description: Operation to delete the user.
+      parameters:
+        - in: path
+          name: username
+          required: true
+          schema:
+            type: string
+            example: raj
+      responses:
+        '200':
+          description: Successfully Deleted.
+        '400':
+          description: Bad request.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error_code:
+                    type: string
+                  error_message:
+                    type: string
+        '404':
+          description: User does not exist.
+        '500':
+          description: Intenal Server Error.
+  /api/user:
+    description: End point to create a user.
+    post:
+      description: Operation to create the user
+      requestBody:
+        content:
+          application/json:
+            schema:
+              title: user object
+              type: object
+              properties:
+                username:
+                  type: string
+                  example: ali
+                email:
+                  type: string
+                  example: ali@example.com
+      responses:
+        '201':
+          description: Successfully Created.
+        '400':
+          description: Bad request.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  error_code:
+                    type: string
+                  error_message:
+                    type: string
+        '409':
+          description: username already exist.
+        '500':
+          description: Internal Server Error.
