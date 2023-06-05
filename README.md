@@ -1,2 +1,2 @@
 # Stuff
-Small projects, Notes, Code snippets and stuff
+Small projects, Notes, Code and stuff
