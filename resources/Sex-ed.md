@@ -12,7 +12,6 @@
 - [Tarana Burke on What Me Too Is Really About](https://youtu.be/GfJ3bIAQOKg)
 - [EverydaySexismProject](https://youtu.be/LhjsRjC6B8U)
 - [Book : The Second Sex](https://youtu.be/Ws2Y2cWme8c)
-- [feminism and porn]()
 
 
 
