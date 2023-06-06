@@ -12,19 +12,24 @@
 - [Tarana Burke on What Me Too Is Really About](https://youtu.be/GfJ3bIAQOKg)
 - [EverydaySexismProject](https://youtu.be/LhjsRjC6B8U)
 - [Book : The Second Sex](https://youtu.be/Ws2Y2cWme8c)
-
+- [Demisexuality](https://youtube.com/playlist?list=PL_zdi3TflN9L0d47ydfMIQqcAn29gvixy)
 
 
 <b>Practical Guidance and Demonstrations</b>
 
-- [Consent](https://www.plannedparenthood.org/learn/relationships/sexual-consent)
+- [Sexplanations](https://youtube.com/@sexplanations)
+- [Consent -article](https://www.plannedparenthood.org/learn/relationships/sexual-consent)
+- [consent -video](https://youtu.be/YRkRS5pvcp0)
+- [menstruation](https://youtube.com/playlist?list=PLRvS13K0fh4IDKSWL15L8zBtqS2R-pkEm)
 - [Menstrual cup insertion](https://youtu.be/qgdPI7oqmRE)
-- [HPV vaccine(in india)](https://www.hindustantimes.com/lifestyle/health/india-launches-first-cervical-cancer-vaccine-why-it-s-important-to-get-jabbed-101662888723563.html)
+- [HPV vaccine(in india) article](https://www.hindustantimes.com/lifestyle/health/india-launches-first-cervical-cancer-vaccine-why-it-s-important-to-get-jabbed-101662888723563.html)
 - [Birth options for non binary couples](https://youtu.be/C1v3BIIox0Q)
 - [OBGYN does a PELVIC EXAM demo | Dr. Jennifer Lincoln](https://youtu.be/mf_aCVcLJF4)
 - [Medical Topics by MDJ](https://youtube.com/playlist?list=PLVH2Gpf8wKeTV5z1F5kgyWqt1TsqwZmki)
 - [Masturbation](https://youtu.be/3U3gA51gXKg)
-
+- [birth control](https://youtube.com/playlist?list=PLRvS13K0fh4L1n8VVu5Z_zPEYrhxbcEPz)
+- [putting on a condom](https://youtu.be/M9Lyay-gemA)
+- [breast self examination](https://youtu.be/XKtTymNkcj0)
 
 
 <b>Related laws and rights(india)</b>
@@ -37,7 +42,6 @@
 - [Surrogacy (Regulation) Act](https://blog.finology.in/Legal-news/is-surrogacy-legal-in-india)
 - [Same-Sex Marriage Hearing Highlights](https://www.ndtv.com/india-news/gay-marriage-case-live-updates-supreme-court-hearing-in-same-sex-marriage-case-today-3957229)
 - [Rape laws -article](https://www.lawinsider.in/columns/all-you-need-to-know-about-rape-in-india)
-
 
 
 <b>Biology</b>
