@@ -39,7 +39,7 @@ MLH blog: [https://news.mlh.io/how-the-mlh-prep-program-helped-me-get-into-the-m
 Session Recordings:  
 - [Intro to git and github session](https://youtube.com/live/DLKHfFWxQ3M?feature=share)  
 - [LFX mentorship session](https://youtu.be/aSLm_fPw8yE)  
-- [GSoC session]()
-- [outreachy session]()   
-- [MLH fellowship session]() 
+- [GSoC session](#)
+- [outreachy session](https://youtu.be/AD1ax-8yERA)   
+- [MLH fellowship session](https://youtu.be/UFWuVBBNURI) 
 - [MLH prep fellowship session](https://www.youtube.com/live/YMiVDQ2N1gI?feature=share)  
