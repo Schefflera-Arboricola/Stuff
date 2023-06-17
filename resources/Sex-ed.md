@@ -13,6 +13,8 @@
 - [EverydaySexismProject](https://youtu.be/LhjsRjC6B8U)
 - [Book : The Second Sex](https://youtu.be/Ws2Y2cWme8c)
 - [Demisexuality](https://youtube.com/playlist?list=PL_zdi3TflN9L0d47ydfMIQqcAn29gvixy)
+- [A discussion on trans issues](https://youtu.be/oPqKTgssYXM)
+
 
 
 <b>Practical Guidance and Demonstrations</b>
@@ -30,6 +32,8 @@
 - [birth control](https://youtube.com/playlist?list=PLRvS13K0fh4L1n8VVu5Z_zPEYrhxbcEPz)
 - [putting on a condom](https://youtu.be/M9Lyay-gemA)
 - [breast self examination](https://youtu.be/XKtTymNkcj0)
+- [How to not get exploited by "hormonal health" marketing?](https://youtu.be/LJUxL5uytW4)
+
 
 
 <b>Related laws and rights(india)</b>
@@ -42,6 +46,7 @@
 - [Surrogacy (Regulation) Act](https://blog.finology.in/Legal-news/is-surrogacy-legal-in-india)
 - [Same-Sex Marriage Hearing Highlights](https://www.ndtv.com/india-news/gay-marriage-case-live-updates-supreme-court-hearing-in-same-sex-marriage-case-today-3957229)
 - [Rape laws -article](https://www.lawinsider.in/columns/all-you-need-to-know-about-rape-in-india)
+
 
 
 <b>Biology</b>

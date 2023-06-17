@@ -19,3 +19,15 @@
 * [Brain anatomy](https://www.youtube.com/@TheAnatomyLab)
 
 * [chrost hugo -twitter](https://twitter.com/chrost_hugo)
+
+* [The Backwards Brain Bicycle](https://youtu.be/MFzDaBzBlL0)
+
+* [Hindsight bias](https://youtu.be/csqOL_KT4Go)
+
+
+<b>TED talks : </b>
+- [control someone's arm with your brain](https://youtu.be/rSQNi5sAwuc)
+- [Growing new brain cells](https://youtu.be/B_tjKYvEziI)
+- [Procastination](https://youtu.be/arj7oStGLkU)
+- [Listening to shame](https://youtu.be/psN1DORYYV0)
+- [false memory](https://youtu.be/PB2OegI6wvI)
