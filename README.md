@@ -8,11 +8,14 @@ Stuff
     │   ├── Software Engg. Project 
     │   └── python-12th 
     ├── Notes 
-    │   ├── Defense mechanisms .pdf 
+    │   ├── Defense mechanisms .pdf
+    │   ├── Interesting Things - anatomy and psychology.pdf
     │   ├── LinearCongruentialGenerator.pdf
     │   ├── Social Networks Summary
     │   ├── Social networks summary(pdf).pdf
-    │   └── kth_quick_lowerbound.pdf
+    │   ├── Trees(DSA).pdf
+    │   ├── kth_quick_lowerbound.pdf
+    │   └── music theory.pdf
     ├── Projects
     │   ├── Chat-GPT
     │   ├── Holi_Simulation.ipynb
