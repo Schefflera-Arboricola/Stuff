@@ -24,6 +24,7 @@ Stuff
     │   └── Social Computing models
     └── resources
         ├── BrainsNBehavior.md
+        ├── GNN.md
         ├── Sex-ed.md
         ├── Social Networks.md
         └── open source.md
