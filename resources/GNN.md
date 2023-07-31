@@ -26,7 +26,6 @@
 - A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions : https://arxiv.org/pdf/2109.12843v2.pdf
 
 
-
 <h2>code :</h2>
 
 - code from articles : https://github.com/linafaik08/graph_neural_networks/tree/main
@@ -39,9 +38,10 @@
 
 <h2>articles :</h2>
 
--  https://towardsdatascience.com/graph-neural-network-gnn-architectures-for-recommendation-systems-7b9dd0de0856
+- https://towardsdatascience.com/graph-neural-network-gnn-architectures-for-recommendation-systems-7b9dd0de0856
 - https://medium.com/data-from-the-trenches/graphical-neural-networks-link-prediction-part-ii-c60f6d97fd97
 - Transformers are Graph Neural Networks : https://thegradient.pub/transformers-are-graph-neural-networks/ 
+- https://www.kaggle.com/code/validmodel/graph-neural-network-starter-for-beginners
 
 
 <h2>video/playlist/book for learning : </h2>
@@ -57,6 +57,7 @@
 - ML with graphs playlist : https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn 
 - GNNs Beyond Permutation Equivariance video : https://youtu.be/aCUOAkOqNoU  
 
+
 <h2>already complied resources : </h2>
 
 - https://geometricdeeplearning.com/
@@ -69,17 +70,29 @@
 - https://petar-v.com/GAT/
 
 
-<h2>collaborative filtering :</h2>
-
-- CF model for books RS : https://youtu.be/1YoD0fg3_EM (code : https://github.com/campusx-official/book-recommender-system/blob/master/book-recommender-system.ipynb)
-- video : https://youtu.be/RVJV8VGa1ZY
-- Collaborative and content based filtering video : https://youtu.be/v90un9ALRzw
-- Neural Collaborative Filtering recommendation model : https://youtu.be/_uhU7s9kOEM
-
-
 <h2>others :</h2>
 
 - GFI-Bot: Automated Good First Issue Recommendation on GitHub: https://hehao98.github.io/files/2022-gfibot.pdf
 - Graph fraud detection papers: https://github.com/safe-graph/graph-fraud-detection-papers
 - Benchmarking Graph Neural Networks: https://arxiv.org/pdf/2003.00982.pdf
 
+
+<h2>ML and DL :</h2>
+
+- Linear Algebra : https://youtube.com/playlist?list=PL221E2BBF13BECF6C
+- Multi variable calculus : https://www.khanacademy.org/math/multivariable-calculus
+- Statistics : https://youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8
+- ML techniques course : https://youtube.com/playlist?list=PLZ2ps__7DhBbA_e6_G3FI-BA1f7lCINUu
+- NN and DL book : http://neuralnetworksanddeeplearning.com/chap1.html
+- above book's solutions : https://nbviewer.org/github/nndl-solutions/NNDL-solutions/blob/master/notebooks/chap-1-using-neural-nets-to-recognize-handwritten-digits.ipynb
+- deep learning book : https://www.deeplearningbook.org/
+- practical course(DL) : https://youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU
+- theoretical course(DL) : https://youtube.com/playlist?list=PL3pGy4HtqwD2kwldm81pszxZDJANK3uGV
+
+
+<h2>collaborative filtering :</h2>
+
+- CF model for books RS : https://youtu.be/1YoD0fg3_EM (code : https://github.com/campusx-official/book-recommender-system/blob/master/book-recommender-system.ipynb)
+- video : https://youtu.be/RVJV8VGa1ZY
+- Collaborative and content based filtering video : https://youtu.be/v90un9ALRzw
+- Neural Collaborative Filtering recommendation model : https://youtu.be/_uhU7s9kOEM
