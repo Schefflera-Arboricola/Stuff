@@ -24,7 +24,8 @@ Stuff
     ├── Projects
     │   ├── Chat-GPT : Small projects made using chat-GPT
     │   ├── Holi_Simulation.ipynb : Explaining the concept of balls and bins using a water-balloon game example
-    │   ├── LinearAlgebra slides.pdf  
+    │   ├── Shadertoy
+    |   ├── LinearAlgebra slides.pdf  
     │   ├── Math-food-play.pdf 
     │   ├── Multi-pivot-Quicksort.ipynb 
     │   └── Social Computing models 
