@@ -1,6 +1,7 @@
-## Initial shader
+## [Initial shader](https://www.shadertoy.com/view/mssBW7)
 
-![ShaderToy Animation1](https://github.com/Schefflera-Arboricola/Stuff/tree/main/Projects/Shadertoy/assests/initial_shader.webm)
+![ShaderToy gif](https://github.com/Schefflera-Arboricola/Stuff/tree/main/Projects/Shadertoy/assests/is_optimize.gif)
+
 
 <hr>
 

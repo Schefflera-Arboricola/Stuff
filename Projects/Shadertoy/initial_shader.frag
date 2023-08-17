@@ -1,3 +1,5 @@
+// https://www.shadertoy.com/view/mssBW7
+
 vec3 palette( float t ) {
     vec3 a = vec3(0.75, 0.5, 0.5);
     vec3 b = vec3(0.25, 0.25, 0.25);
