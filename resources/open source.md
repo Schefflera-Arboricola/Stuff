@@ -1,6 +1,8 @@
 # open source 
 
 - [OS internships](https://youtu.be/x4hsV_q_YQc) (links in description)
+- https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs 
+- https://github.com/SimplifyJobs/Summer2024-Internships 
 - [OSS, GSoC session(Prathamesh Ghatole and Rudraksh Karpe)](https://youtu.be/Tra9NJlhwdk)  
 - [GSoC(Vishwa R.)](https://youtu.be/c8FuTmqOnGg)  
 
