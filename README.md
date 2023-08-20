@@ -7,7 +7,7 @@ Stuff
     |   |   ├── Final web app -1 (LA) : a web application made using Flask framework with SQLite DB, which lets users perform CRUD operations on students' and courses' databases.
     │   │   ├── Final web app -2 (Tutorial) : a web application made using Flask framework with SQLite DB, that can display articles with authors date-wise or author-wise. 
     |   |   ├── ....
-    │   ├── streamlit_ app(largest_of_three) : a simple app hosted on Streamlit cloud, that finds the largest among the given 3 numbers
+    │   ├── streamlit_app(largest_of_three) : a simple app hosted on Streamlit cloud, that finds the largest among the given 3 numbers
     │   ├── MySQL-12
     │   ├── Software Engg. Project 
     │   └── python-12th
