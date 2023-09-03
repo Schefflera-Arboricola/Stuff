@@ -96,3 +96,9 @@
 - video : https://youtu.be/RVJV8VGa1ZY
 - Collaborative and content based filtering video : https://youtu.be/v90un9ALRzw
 - Neural Collaborative Filtering recommendation model : https://youtu.be/_uhU7s9kOEM
+
+## By me :
+
+- Dataset[UPDATED] : https://www.kaggle.com/datasets/aditijuneja/github-bipartite-graph-datasetdevelopersrepos
+- Notes: https://notability.com/n/1Yrlq8P7W0husDliZVHAWo
+- Video: https://youtu.be/gPm_DZ3mOJM

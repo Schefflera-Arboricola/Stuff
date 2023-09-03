@@ -8,9 +8,10 @@ Stuff
     │   │   ├── Final web app -2 (Tutorial) : a web application made using Flask framework with SQLite DB, that can display articles with authors date-wise or author-wise. 
     |   |   ├── ....
     │   ├── streamlit_app(largest_of_three) : a simple app hosted on Streamlit cloud, that finds the largest among the given 3 numbers
-    │   ├── MySQL-12
+    |   ├── VM_assignments
     │   ├── Software Engg. Project 
-    │   └── python-12th
+    │   ├── python-12th
+    │   └── MySQL-12
     ├── Notes
     │   ├── Defense mechanisms .pdf
     │   ├── Interesting Things - anatomy and psychology.pdf
