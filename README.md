@@ -28,6 +28,7 @@ Stuff
     |   ├── LinearAlgebra slides.pdf  
     │   ├── Math-food-play.pdf 
     │   ├── Multi-pivot-Quicksort.ipynb 
+    │   ├── MCST-draft.pdf
     │   └── Social Computing models 
     └── resources
         ├── BrainsNBehavior.md
