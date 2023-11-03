@@ -36,10 +36,11 @@
 
 
 
-<b>Related laws and rights(india)</b>
+<b>Related laws and rights(India)</b>
 
 - [Cybercrime Portal](https://cybercrime.gov.in/)
 - [Laws Related to Women](http://www.ncw.nic.in/important-links/List-of-Laws-Related-to-Women)
+- [History and rights of homosexuals in India(IPC Sec 377)](https://youtu.be/Jdxe0DPAbvk?si=krgm_JHayGlzLR9-)
 - [Sexual Assault Cases 2021](https://youtu.be/CpQIIlDJuE0)
 - [marital rape](https://youtu.be/SfI8Y5fxBPY)
 - [MTP (Amendment) Bill 2021](https://youtu.be/jBuTZ90jcRM)
