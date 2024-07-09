@@ -9,7 +9,8 @@ Stuff
     |   ├── Social Computing models
     │   ├── Chat-GPT : Small projects made using chat-GPT 
     │   ├── MCST-draft.pdf
-    │   ├── Shadertoy  
+    │   ├── Shadertoy
+    |   ├── networkx-related
     │   └── LinearAlgebra slides.pdf
     ├── Notes
     |   ├── GNN notes(RS for GitHub).pdf
