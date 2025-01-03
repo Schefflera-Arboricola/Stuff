@@ -5,3 +5,4 @@
 - https://realpython.com/
 - How to be a Good Software Engineer with Kelsey Hightower: https://youtu.be/cl0zMen43E4?si=B6hBCkf09qUmstpD
 - Bikeshedding in Software Engineering: https://youtu.be/dZXj_0P-jrQ?si=8IwLrAFV4GRiemdo
+- History of Women in Programming: https://youtu.be/CFbiJSYPonY?si=Z6fV60HOSKP6m9U4

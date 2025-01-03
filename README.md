@@ -27,6 +27,8 @@ Stuff
     │   ├── Sex-ed.md
     │   ├── Social Networks.md
     │   ├── GNN.md
+    │   ├── OS_funding
+    │   ├── Some_nice_OS_resources
     │   └── open source.md
     └── Assignments
         ├── MAD-1 Lab Assignments
